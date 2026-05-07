@@ -12,7 +12,7 @@
 | 2 | 💻 [ACM India Travel Grant](#) | `₹1,50,000 INR` |
 | 3 | 🔬 [CSIR Travel Grant](https://csirhrdg.res.in/Home/Index/1/Default/2677/69) | `₹50,000 INR` |
 | 4 | 🎓 [UGC Travel Grant Scheme](#) | `₹1,00,000 INR` |
-| 5 | 🚀 [SERB International Travel Support (ITS)](#) | `₹1,50,000 INR` |
+| 5 | 🚀 [SERB International Travel Support (ITS)](https://anrfonline.in/ANRF/its) | `₹1,50,000 INR` |
 | 6 | 🏛️ [AICTE-INAE Travel Grant Scheme](#) | `₹50,000 INR` |
 | 7 | ➕ *More coming soon...* | — |
 
